@@ -8,7 +8,7 @@
 
 <img src= "readme.png">
 
-🔥<a href="https://desafios-js-es8x.vercel.app/">Deploy</a>
+🔥<a href="#">Deploy</a>
 
 <h4>Espero que gostem e aguardem os novos capítulos!!😎😉</h4>
 
