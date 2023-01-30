@@ -4,11 +4,6 @@
 <h3>Resolvi o primeiro desafio de JavaScript, onde consiste ao clicar em um dos botões, o navegador dispara uma mensagem.</h3>
 
 # 
-<h3>Se liga:</h3>
-
-<img src= "img\readme.png">
-
-🔥<a href="#">Deploy</a>
 
 <h4>Espero que gostem e aguardem os novos capítulos!!😎😉</h4>
 

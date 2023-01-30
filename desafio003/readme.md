@@ -9,11 +9,6 @@
 
 
 # 
-<h3>Se liga:</h3>
-
-<img src= "readme.png">
-
-🔥<a href="#">Deploy</a>
 
 <h4>Espero que gostem e aguardem os novos capítulos!!😎😉</h4>
 
