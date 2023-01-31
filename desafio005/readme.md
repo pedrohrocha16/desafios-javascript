@@ -1,9 +1,7 @@
 ## <h1><em>Olá pessoas!</em>😁</h1> 
 
 
-<h3>Resolvi o <strong>quarto</strong> desafio de JavaScript, onde consiste em adicionar o nome de 
-um determinado produto, o valor do produto, o valor que o usuário deu e no final, mensagem de confirmação e de troco.
-Caso o valor seja menor que o valor do produto, o resultado retorna inválido.</h3>
+<h3>Resolvi o <strong>quinto</strong> desafio de JavaScript, onde consiste arrumar um valor (em metros) e o resultado mostra a conversão para outras medidas.</h3>
 
 
 
