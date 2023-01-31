@@ -9,9 +9,7 @@
 
 
 # 
-<h3>Confira:</h3>
 
-🔥<a href="#">Deploy</a>
 
 <h4>Espero que gostem e aguardem os novos capítulos!!😎😉</h4>
 
