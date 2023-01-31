@@ -1,9 +1,9 @@
 ## <h1><em>Olá pessoas!</em>😁</h1> 
 
 
-<>Resolvi o <strong>quarto</strong> desafio de JavaScript, onde consiste em adicionar o nome de 
+<h3>Resolvi o <strong>quarto</strong> desafio de JavaScript, onde consiste em adicionar o nome de 
 um determinado produto, o valor do produto, o valor que foi pago e no final, mensagem de confirmação de troco.
-Caso o valor seja menor que o valor do produto, o resultado retorna inválido.
+Caso o valor seja menor que o valor do produto, o resultado retorna inválido.</h3>
 #
 
 <h5>Ps: a medida que vou resolvendo os desafios, vou melhorando o design da pág.😆</h5>
