@@ -12,7 +12,6 @@ Caso o valor seja menor que o valor do produto, o resultado retorna inválido.</
 
 <h5>Ps: a medida que vou resolvendo os desafios, vou melhorando o design da pág.😆</h5>
 
-
 # 
 
 <h4>Espero que gostem e aguardem os novos capítulos!!😎😉</h4>
