@@ -1,7 +1,7 @@
 ## <h1><em>Olá pessoas!</em>😁</h1> 
 
 
-<h3>Resolvi o <strong>quinto</strong> desafio de JavaScript, onde consiste arrumar um valor (em celsius) e o resultado mostra a conversão para outras temperaturas termodinâmicas.</h3>
+<h3>Resolvi o <strong>sétimo</strong> desafio de JavaScript, onde consiste arrumar um valor (em R$) e o resultado mostra a conversão do valor digitado para US$</h3>
 
 
 
