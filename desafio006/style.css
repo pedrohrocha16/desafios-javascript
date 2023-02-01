@@ -29,9 +29,10 @@ button:active{
     background: rgb(131, 236, 196);
 }
 .res {
+    align-items: center;
     display: flex;
+    flex-direction: column;
     font-weight: 400;
-    justify-content: center;
     margin-top: 2rem;
 }
 
