@@ -1,0 +1,45 @@
+body{
+    background: rgb(223, 222, 222); 
+}
+
+h1{
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.iniciar {
+    display: flex;
+    justify-content: center;
+}
+button {
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(158,240,180,1) 100%);
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 30%;
+}
+button:hover{
+    border: 1px dashed blue;
+}
+button:active{
+    background: rgb(125, 230, 190);
+}
+.res {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+
+@media (min-width: 425px){
+    button {
+        height: 50px;
+        width: 20%;
+    }
+}
